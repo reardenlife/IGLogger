@@ -1,0 +1,21 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: iglogger.apk
+compressionType: false
+doNotCompress:
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '13'
+  versionName: '0.1'
